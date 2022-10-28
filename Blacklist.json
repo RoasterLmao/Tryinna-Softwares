@@ -1,0 +1,32 @@
+{
+   "blacklisted": {
+      "fronymany": {
+          "reason": "Toxicity.",
+          "ban-date": "28.10.2022",
+          "was-owner-friend": false
+      }
+   },
+   "exploiters": {
+      "white4361": {
+         "reason": "General exploiting.",
+         "ban-date": "28.10.2022",
+         "was-owner-friend": false
+      },
+      "wizard_95104": {
+         "reason": "General exploiting.",
+         "ban-date": "28.10.2022",
+         "was-owner-friend": false
+      }
+   },
+   "blacklisted-names": {
+       "krnl": "Exploit-like name.",
+       "fluxus": "Exploit-like name.",
+       "vxpe": "Script-like name.",
+       "synapse": "Exploit-like name.",
+       "futureclient": "Script-like name.",
+       "engoware": "Script-like name.",
+       "sentinelv3": "Exploit-like name.",
+       "sentielv3": "Exploit-like name.",
+       "protosmasher": "Exploit-like name."
+   }
+}
